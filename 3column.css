@@ -1,0 +1,28 @@
+h1
+{text-align: center;}
+
+.wrap
+{width:1000px;
+border:1px solid blue; margin: 0px auto;
+}
+
+.header
+{height:100px; background: blue; color:#fff;}
+
+.menu
+{height:50px; background: red; color:#fff;}
+
+.main
+{font-family: arial;}
+
+.left
+{width:200px; float: left; background: blue; height:300px;}
+
+.center
+{width:600px; float: left; background: red; height:300px;}
+
+.right
+{width:200px; float: left; background-color: blue; height:300px;}
+
+.footer
+{clear:both; height:50px; background:green;}
